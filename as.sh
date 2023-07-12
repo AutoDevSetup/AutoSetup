@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Get the name of the repository and an action from the command-line arguments.
 REPO=$1
 ACTION=$2

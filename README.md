@@ -18,7 +18,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Usage
 
-1. Clone this repository to your local machine using `https://github.com/AutoDevSetup/AutoSetup.git`. Replace `AutoDevSetup` with your GitHub username.
+1. Clone this repository to your local machine using `https://github.com/AutoDevSetup/AutoSetup.git`.
 2. Navigate to the cloned repository. Example: `cd AutoSetup`.
 3. Make the script executable by running `chmod +x as.sh`. Replace `as.sh` with the name of the script file.
 4. Run the script with the GitHub repository you want to clone as an argument. Example: `./as.sh <repo>`, where `<repo>` is the repository you want to clone. Replace `as.sh` with the name of the script file. for example: `ac.sh AutoDevSetup/AutoSetup`
